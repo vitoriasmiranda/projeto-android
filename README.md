@@ -23,21 +23,6 @@ Este projeto apresenta a fascinante história por trás do mascote do Android, d
 
 ---
 
-## Como Visualizar
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    ```
-    (Lembre-se de substituir `SEU_USUARIO` e `SEU_REPOSITORIO` pelos seus dados reais.)
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd historia-mascote-android
-    ```
-3.  **Abra o `index.html`:**
-    Basta abrir o arquivo `index.html` no seu navegador da web.
-
----
 ## Créditos
 
 Este projeto foi criado como parte de um curso ministrado por **Gustavo Guanabara** do **CursoEmVídeo**.
